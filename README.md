@@ -166,6 +166,6 @@ uvicorn main:app --reload
 ---
 
 ## 🤝 Connect with Me
-- **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-- **GitHub:** [://github.com](https://://github.com)
+- **LinkedIn:**linkedin.com/in/simran-jot-68481231a
+- **GitHub:** https://github.com/simranjot723/simranjot723/
 - **Email:** simranjotdevops11@gmail.com
