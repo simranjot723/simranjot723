@@ -2,7 +2,7 @@
 
 I am a highly driven **Full-Stack Developer** and final-year Computer Science & Engineering undergraduate. I specialize in building decoupled web microservices, designing high-throughput relational databases, and implementing scalable backend application logic using Python and JavaScript frameworks.
 
-- 🎓 **Education:** B.Tech in Computer Science & Engineering @ Lyallpur Khalsa College Technical Campus
+- 🎓 **Education:** B.Tech in Computer Science & Engineering @ Lyallpur Khalsa College Technical Campus 2023-2027
 - ⚡ **Core Focus:** Backend Engineering, Decoupled Architectures, Asynchronous Web Protocols, and API Performance Optimization
 - 💼 **Looking for:** Graduate Software Engineering roles, Full-Stack Developer positions, or Technical Internships
 
