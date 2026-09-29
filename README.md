@@ -88,26 +88,6 @@ Database Layer (PostgreSQL)   ML Recommendation Engine
 │ stock_count   │
 └───────────────┘
 
-#### ⚙️ Setting Up FUZEE Locally
-```bash
-# Clone the repository
-git clone https://github.com
-cd fuzee-ecommerce
-
-# Initialize the python environment wrapper
-python -m venv venv
-.\venv\Scripts\activate
-
-# Install the application packages
-pip install -r requirements.txt
-
-# Execute migrations and run server
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
-```
-
----
 
 ### 🤝 SEWA-360 – Intelligent Community Resource-Sharing Ecosystem
 A centralized resource-matching community utility application optimized to balance localized supply streams with critical civic demands.
@@ -140,22 +120,7 @@ Relational Storage Matrix <──────────────── Post
 │ gps_coords    │
 └───────────────┘
 
-#### ⚙️ Setting Up SEWA-360 Locally
-```bash
-# Clone the repository
-git clone https://github.com
-cd sewa-360
 
-# Setup system environment
-python -m venv venv
-.\venv\Scripts\activate
-pip install -r requirements.txt
-
-# Run the asynchronous server
-uvicorn main:app --reload
-```
-
----
 
 ## 📈 Certifications & Training
 - **Full Stack Web Development with AI** – 8-Week Professional Certification, *Internshala Trainings*
@@ -166,6 +131,6 @@ uvicorn main:app --reload
 ---
 
 ## 🤝 Connect with Me
-- **LinkedIn:**linkedin.com/in/simran-jot-68481231a
+- **LinkedIn:**https://linkedin.com/in/simran-jot-68481231a
 - **GitHub:** https://github.com/simranjot723/simranjot723/
 - **Email:** simranjotdevops11@gmail.com
